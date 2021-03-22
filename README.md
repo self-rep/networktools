@@ -15,5 +15,3 @@ Golang / Python Networking / Pentesting Tools
 ## Usage
 - .\gobuster.exe -h (Shows Help Menu)
 - .\gobuster.exe -host=http://example.com -port=<PORT> -wordlist=<PATH TO WORDLIST> -output=true -timeout=<TIMEOUT IN MS/SECONDS>
-## Example
-[![Example Video]](https://github.com/self-rep/networktools/blob/main/cli-gobuster/example.mp4)
